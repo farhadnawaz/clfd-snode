@@ -10,7 +10,7 @@ We propose a novel hypernetwork-based approach for stable continual learning fro
 
 Here is a short overview of our approach:
 
-<video width="800" src="https://github.com/sayantanauddy/clfd-snode/assets/10401716/1958249e-5cab-4ae3-887b-2a7c6f2da0b6"></video>
+<video width="1920" width="1080"  src="https://github.com/sayantanauddy/clfd-snode/assets/10401716/1958249e-5cab-4ae3-887b-2a7c6f2da0b6"></video>
 
 
 
