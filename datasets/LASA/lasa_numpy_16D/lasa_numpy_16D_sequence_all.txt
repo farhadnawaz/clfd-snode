@@ -1,0 +1,10 @@
+lasa16D_task0.npz
+lasa16D_task1.npz
+lasa16D_task2.npz
+lasa16D_task3.npz
+lasa16D_task4.npz
+lasa16D_task5.npz
+lasa16D_task6.npz
+lasa16D_task7.npz
+lasa16D_task8.npz
+lasa16D_task9.npz

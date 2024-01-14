@@ -1,0 +1,5 @@
+lasa32D_task0.npz
+lasa32D_task1.npz
+lasa32D_task2.npz
+lasa32D_task3.npz
+lasa32D_task4.npz

@@ -1,0 +1,132 @@
+[
+    {
+        "highdim_filename": "lasa16D_task0.npz",
+        "lasa2d_tasks": [
+            15,
+            18,
+            5,
+            19,
+            25,
+            20,
+            16,
+            4
+        ]
+    },
+    {
+        "highdim_filename": "lasa16D_task1.npz",
+        "lasa2d_tasks": [
+            22,
+            16,
+            15,
+            12,
+            1,
+            11,
+            20,
+            21
+        ]
+    },
+    {
+        "highdim_filename": "lasa16D_task2.npz",
+        "lasa2d_tasks": [
+            16,
+            23,
+            10,
+            25,
+            12,
+            3,
+            5,
+            2
+        ]
+    },
+    {
+        "highdim_filename": "lasa16D_task3.npz",
+        "lasa2d_tasks": [
+            10,
+            15,
+            3,
+            0,
+            23,
+            5,
+            1,
+            22
+        ]
+    },
+    {
+        "highdim_filename": "lasa16D_task4.npz",
+        "lasa2d_tasks": [
+            16,
+            15,
+            1,
+            23,
+            25,
+            18,
+            8,
+            5
+        ]
+    },
+    {
+        "highdim_filename": "lasa16D_task5.npz",
+        "lasa2d_tasks": [
+            14,
+            11,
+            2,
+            21,
+            3,
+            12,
+            18,
+            6
+        ]
+    },
+    {
+        "highdim_filename": "lasa16D_task6.npz",
+        "lasa2d_tasks": [
+            10,
+            17,
+            18,
+            21,
+            3,
+            16,
+            0,
+            23
+        ]
+    },
+    {
+        "highdim_filename": "lasa16D_task7.npz",
+        "lasa2d_tasks": [
+            1,
+            2,
+            23,
+            18,
+            8,
+            5,
+            4,
+            24
+        ]
+    },
+    {
+        "highdim_filename": "lasa16D_task8.npz",
+        "lasa2d_tasks": [
+            9,
+            10,
+            21,
+            5,
+            12,
+            15,
+            19,
+            17
+        ]
+    },
+    {
+        "highdim_filename": "lasa16D_task9.npz",
+        "lasa2d_tasks": [
+            13,
+            17,
+            3,
+            19,
+            10,
+            18,
+            22,
+            20
+        ]
+    }
+]
