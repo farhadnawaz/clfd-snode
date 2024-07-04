@@ -5,7 +5,7 @@ This repository contains the code and datasets for our paper **Scalable and Efï¬
 We propose a novel hypernetwork-based approach for stable continual learning from demonstration, enabling a robot to sequentially acquire multiple trajectory-based stable motion skills with a single hypernetwork without retraining on previous demonstrations. The stability in learned trajectories not only prevents divergence in motion but also greatly enhances continual learning performance, particularly in our most size-efficient model. We propose an efficient hypernetwork training method and provide new datasets for the LfD community. Evaluations on various benchmarks, including real-world robotic manipulation tasks, validate our approach.
 
 <p style="text-align:center">
-  <img src="images/clfd_snode_intro.svg" width="800" /> 
+  <img src="images/clfd_snode_intro.png" width="800" /> 
 </p>
 
 <p style="text-align:center">
@@ -13,11 +13,8 @@ We propose a novel hypernetwork-based approach for stable continual learning fro
   <figcaption>Fig 2: After continually learning the 9 real-world tasks of the RoboTasks9 dataset with a single CHN-sNODE model, the robot is able to perform any of the past tasks accurately (each task involves changing positions and orientations).</figcaption>
 </p>
 
-A video of empirical evaluations with a physical robot is available on [Youtube]([https://www.youtube.com/watch?v=2zB2gvvCePU](https://www.youtube.com/watch?v=2zB2gvvCePU))).
-<video width="800" controls>
-  <source src="videos/clfd_snode_video_youtube_compressed.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+A video of empirical evaluations with a physical robot is available on [![Youtube](https://www.youtube.com/watch?v=2zB2gvvCePU)](https://www.youtube.com/watch?v=2zB2gvvCePU)
+
 
 ## Datasets
 
