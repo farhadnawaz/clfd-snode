@@ -21,9 +21,7 @@ We propose a novel hypernetwork-based approach for stable continual learning fro
   <figcaption>Fig 2: After continually learning the 9 real-world tasks of the RoboTasks9 dataset with a single CHN-sNODE model, the robot is able to perform any of the past tasks accurately (each task involves changing positions and orientations).</figcaption>
 </p>
 
-Here is a short video overview of our approach (also available on [Youtube](https://youtu.be/xDgTvWADoyA)):
-
-<video width="1080"  src="https://github.com/sayantanauddy/clfd-snode/assets/10401716/76f83be3-9c7d-482c-996a-60fb2e84c1e4"></video>
+A video of empirical evaluations with a physical robot is available on [Youtube]([https://youtu.be/xDgTvWADoyA](https://www.youtube.com/watch?v=2zB2gvvCePU))).
 
 ## Datasets
 
