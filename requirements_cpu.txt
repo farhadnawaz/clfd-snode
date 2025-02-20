@@ -1,0 +1,16 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+numba==0.57.1
+similaritymeasures==0.4.4
+tqdm==4.43.0
+pandas
+optuna==2.10.1
+matplotlib
+seaborn==0.9.0
+torchdiffeq==0.2.2
+scipy==1.8.1
+numpy==1.24.4
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.6
+pyquaternion==0.9.9
+tensorboardX==2.5.1
